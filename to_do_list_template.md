@@ -6,9 +6,9 @@ Please, go through these steps before you submit a PR.
 
     a. You have done your changes in a separate branch. Branches MUST have descriptive names that start with either the `fix/` or `feature/` prefixes. Good examples are: `fix/signin-issue` or `feature/issue-templates`.
 
-    b. You have a descriptive commit message with a short title (first line).
+    b. You have a descriptive commit message with a short title ``(first line)``.
 
-    c. You have only one commit (if not, squash them into one commit).
+    c. You have only one commit (if not, squash them into ```one commit```).
 
     d. `npm test` doesn't throw any error. If it does, fix them first and amend your commit (`git commit --amend`).
 
